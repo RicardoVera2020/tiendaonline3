@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name">tiendaonline3</string>
+    <string name="categorias">Categorías</string>
+    <string name="titulo">Título del Producto</string>
+    <string name="descripci_n_del_producto">Descripción del Producto</string>
+    <string name="comentario">Añadir un comentario</string>
+
+
+</resources>
